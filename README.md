@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicious curse
 - 👀 I’m interested in ...coding and workout
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate with ...Programmers
 - 📫 How to reach me ...instagram id : vicious__curse
-- ⚡ Fun fact: ...Python learners have a unique advantage – they've unlocked the ability to charm syntax errors away. It's like having a coding flute that serenades bugs into slithering away like digital snakes in the grass!
+- ⚡ Fun fact: ...Java was named after coffee because its creators needed a strong brew to power through coding sessions!
